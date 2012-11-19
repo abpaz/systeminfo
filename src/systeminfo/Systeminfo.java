@@ -28,6 +28,8 @@ public class Systeminfo {
         System.out.println("Nivel de parches\t" + sys.getPatchLevel());
         System.out.println("Fabricante\t\t" + sys.getVendor());
         System.out.println("Version SO\t\t" + sys.getVendorVersion());
+        
+        System.out.println(" ..........");
     
     }    
     }
